@@ -10,7 +10,7 @@ import io
 import traceback  # For detailed error logs
 
 app = Flask(__name__)
-CORS(app, origins=["http://localhost:5173", "https://your-frontend-domain.com"])
+CORS(app, origins=["http://localhost:5173", "https://67e677368fb4bbe7dea02ef4--cool-kitten-d086b6.netlify.app"])
 
 MODEL_PATH = os.path.abspath("mobilenetv2_model2.h5")
 
