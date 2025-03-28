@@ -1,4 +1,5 @@
 absl-py==2.1.0
+python-3.9.18
 astunparse==1.6.3
 blinker==1.9.0
 certifi==2025.1.31
@@ -27,6 +28,7 @@ numpy==2.0.2
 opt_einsum==3.4.0
 optree==0.14.1 
 packaging==24.2
+pip>=25.0.1
 pillow==11.1.0
 protobuf==5.29.3
 Pygments==2.19.1
@@ -36,8 +38,8 @@ setuptools==76.0.0
 six==1.17.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
-tensorflow==2.10.0
-tensorflow_intel==2.10.0
+tensorflow==2.12.0
+tensorflow_intel==2.12.0
 termcolor==2.5.0
 typing_extensions==4.12.2
 urllib3==2.3.0
