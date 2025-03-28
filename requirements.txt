@@ -1,6 +1,6 @@
 absl-py==2.1.0
 astunparse==1.6.3
-keras==3.10.0
+# keras==3.10.0
 blinker==1.9.0
 certifi==2025.1.31
 charset-normalizer==3.4.1
@@ -16,7 +16,7 @@ h5py==3.13.0
 idna==3.10
 itsdangerous==2.2.0
 Jinja2==3.1.6
-# keras==3.9.0
+keras==3.9.0
 libclang==18.1.1
 Markdown==3.7
 markdown-it-py==3.0.0
